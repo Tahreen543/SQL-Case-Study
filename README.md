@@ -1,2 +1,2 @@
-# SQL-Case-Study
-Case Study of SQL of Maven Movies data Set
+# SQL-
+SQL Learnings ,Assignment &amp; Projects
